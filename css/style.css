@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+
+width: 90%;
+
+ 
+
+margin: auto;
+
+overflow: hidden;
+
+margin-top: 30px;
+}
+.logo{
+
+width: 20%;
+
+ 
+
+float: left;
+}
+.logo img{
+
+}
+.menu{
+
+width: 50%;
+
+ 
+
+float: right;
+}
+.menu ul{
+
+list-style: none;
+
+float: right;
+}
+.menu ul li{
+
+float: left;
+
+margin-left: 30px;
+}
+.menu ul li a{
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #626262;
+}
+
+.banner{
+
+width: 90%;
+
+margin: auto;
+}
+.banner img{
+    width: 100%;
+}
